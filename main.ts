@@ -255,7 +255,7 @@ let value = 0
 game.showLongText("Memorize the sequence and replay it", DialogLayout.Bottom)
 spriteList = sprites.allOfKind(SpriteKind.glyph)
 info.setScore(0)
-info.setLife(3)
+info.setLife(5)
 InitImages()
 InitSounds2()
 InitUI()
